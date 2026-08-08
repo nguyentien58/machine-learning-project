@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Auxerre</h1>
+<h1>Hi 👋, Clyde Nguyen</h1>
 
 <h3>Software Engineering Student | AI & Machine Learning Enthusiast</h3>
 
